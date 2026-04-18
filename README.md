@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a comprehensive set of tools for 3D-SM (Three-Dimensional Sludge Map) analysis, including image processing, machine learning models, and statistical analysis tools.
+This repository contains a comprehensive set of tools for 3D-SM (Three-Dimensional Settling Map) analysis, including image processing, machine learning models, and statistical analysis tools.
 
 ## Table of Contents
 
